@@ -1,6 +1,6 @@
 # stm_register
-##BSRR 
+## BSRR 
 
-##BRR
+## BRR
 
-##ISR
+## ISR
